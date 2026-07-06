@@ -1,0 +1,10 @@
+{
+  "title": "Cruise Excursion Options",
+  "description": "Explore excursion options available for cruise travelers at various ports, enhancing your travel experience.",
+  "version": "1.0.0",
+  "platformVersion": "15.0.0",
+  "published_with": "craftwave",
+  "authentication": {
+    "type": "oauth2"
+  }
+}
